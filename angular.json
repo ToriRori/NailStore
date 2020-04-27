@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "NailStore"
+    }
+  },
+  "defaultProject": "NailStore",
+  "cli": {
+    "analytics": "4a359162-b9ad-425a-a677-231928252b57"
+  }
 }
